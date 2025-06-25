@@ -1,1 +1,1 @@
-# cademic-Course-Registration-Web-Application
+# Academic-Course-Registration-Web-Application
